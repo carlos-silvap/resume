@@ -1,0 +1,43 @@
+body {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  div {
+    background: orange;
+  }
+  
+  p {
+    background: rgba(255,84,104,0.3); 
+    border: 5px solid rgb(255,84,104);
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .textoEspecial{
+    background: red;
+  }
+  
+  
+  
+  p.nicer {
+    background: rgba(155,84,104,0.3); 
+    border: 2px solid rgb(255,84,104);
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  #unico {
+    background: yellow;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    color: orange;
+    font-size: 2rem;
+  }
+  
+  
+  span {
+    background: white;
+    border: 1px solid black;
+  }
